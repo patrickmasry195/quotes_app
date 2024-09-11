@@ -26,13 +26,10 @@ link: https://zenquotes.io/
 link: https://www.figma.com/design/5znR3gBxzLmRx4DNjI6fhs/QuotesApp?node-id=1-4&t=tWMVvmBngnQ3I7c1-1
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/9c77c5d4-f408-4288-bf3b-ee373d3f531c" style="width: 400px; height: 1100px;">
-<img src="https://github.com/user-attachments/assets/c3dd7adb-fc1a-4295-8624-e5f75938ebb5" style="width: 400px; height: 1100px;">
-<img src="https://github.com/user-attachments/assets/d35f0155-1282-4b8d-9f02-5ddf6e51acaf" style="width: 400px; height: 1100px;">
-<img src="https://github.com/user-attachments/assets/432e972c-041f-436a-ab78-989a5f6c5999" style="width: 400px; height: 1100px;">
-
-
-
+<img src="https://github.com/user-attachments/assets/9c77c5d4-f408-4288-bf3b-ee373d3f531c" style="width: 1080px; height: 2340px;">
+<img src="https://github.com/user-attachments/assets/c3dd7adb-fc1a-4295-8624-e5f75938ebb5" style="width: 1080px; height: 2340px;">
+<img src="https://github.com/user-attachments/assets/d35f0155-1282-4b8d-9f02-5ddf6e51acaf" style="width: 1080px; height: 2340px;">
+<img src="https://github.com/user-attachments/assets/432e972c-041f-436a-ab78-989a5f6c5999" style="width: 1080px; height: 2340px;">
 
 
 
